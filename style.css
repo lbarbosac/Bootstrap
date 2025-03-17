@@ -1,0 +1,94 @@
+body {
+    background-color: #555;
+}
+
+.header h1 {
+    padding: 50px;
+    font-family: "Lato";
+    font-size: 50px;
+    color: #fff;
+    background-color: #444;
+}
+
+.header ul  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color: #444;
+    padding: 8px;
+}
+
+.header a {
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.header a:hover {
+    opacity: 0.8;
+}
+
+.dst-creta {
+    display: block;
+}
+
+.dst-creta h1 {
+    display: block;
+    font-family: "Lato";
+    padding: 8px;
+    color: #fff;
+    background-color: #444;
+}
+
+.dst-creta img {
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+.dst-creta p {
+    width: 50%;
+    display: block;
+    float: right;
+    color: #fff;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.item-1 h1 {
+    padding: 8px;
+    margin-top: 15px;
+    background-color: #444;
+    color: #fff;
+    font-family: "Lato";
+}
+
+.item-1 h3 {
+    color: #fff;
+    font-family: "Lato";
+}
+
+.item-1 p {
+    color: #fff;
+}
+
+.item-1 h4 {
+    color: #fff;
+    background-color: #444;
+    padding: 6px;
+}
+
+.item-1 li {
+    color: #fff;
+}
+
+.item-1 a {
+    text-decoration: none;
+}
+
+.item-1 a:hover {
+    font-size: 18px;
+    opacity: 0.9;
+}
