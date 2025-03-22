@@ -228,3 +228,8 @@ footer img {
     height: 85px;
     padding: 10px;
 }
+
+footer img:hover {
+    border: solid 2px #666;
+    padding: 1px;
+}
